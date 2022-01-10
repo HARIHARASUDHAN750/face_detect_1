@@ -9,5 +9,4 @@ numpy==1.19.3
 opencv-contrib-python
 Werkzeug==1.0.1
 wincertstore==0.2
-facenet-pytorch-cpu
 fastai
