@@ -6,7 +6,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.18.4
-opencv-python==3.4.0.14
+opencv-python==4.2.0.32
 opencv-contrib-python
 Werkzeug==1.0.1
 wincertstore==0.2
